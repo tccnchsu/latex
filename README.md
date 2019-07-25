@@ -15,4 +15,4 @@ Markdown supports inline HTML. Inline HTML can be used for both quick and simple
 Quick and Simple Inline
 For quick and simple inline items use HTML ampersand entity codes. An example that combines this idea with subscript text in markdown is: hθ(x) = θo x + θ1x, the code for which follows.
 
-    h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+    ![equation]h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
