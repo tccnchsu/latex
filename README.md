@@ -16,4 +16,4 @@ https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-gener
 
 https://www.codecogs.com/latex/eqneditor.php
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; x=\int_{a}^{b} x^{2}" dx" title=" x=\int_{a}^{b} x^{2}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; x=\int_{a}^{b} x^{2}dx" title="\Large x=\int_{a}^{b} x^{2}dx" />
