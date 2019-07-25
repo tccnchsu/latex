@@ -10,7 +10,10 @@ https://stackoverflow.com/questions/35498525/latex-rendering-in-readme-md-on-git
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
-Quick and Simple Inline
-For quick and simple inline items use HTML ampersand entity codes. An example that combines this idea with subscript text in markdown is: hθ(x) = θo x + θ1x, the code for which follows.
 
-    ![equation]h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog/11256862#11256862
+
+
+https://www.codecogs.com/latex/eqneditor.php
+
+<img src="https://latex.codecogs.com/svg.latex? \int_{a}^{b} x^{2}" dx/>
