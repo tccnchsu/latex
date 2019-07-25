@@ -23,3 +23,5 @@ Equation Editor
 https://latex.codecogs.com/
 
 <img src="http://latex.codecogs.com/gif.latex?1+sin(x)" border="0"/>
+https://latex.codecogs.com/eqneditor/integration/htmlequations.php
+<img src="http://latex.codecogs.com/svg.latex?1+sin(x)" border="0"/>
